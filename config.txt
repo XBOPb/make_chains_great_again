@@ -1,0 +1,4 @@
+UseBridges 1 
+ClientTransportPlugin obfs4 exec /usr/bin/obfs4proxy 
+Bridge bridge_1
+Bridge bridge_2
